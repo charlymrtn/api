@@ -10,7 +10,10 @@ lib-cov
 pids
 logs
 results
-uploads
+uploads/albums/*.*
+uploads/artists/*.*
+uploads/songs/*.*
+uploads/users/*.*
 
 node_modules
 npm-debug.log
