@@ -10,10 +10,6 @@ lib-cov
 pids
 logs
 results
-**/*.png
-**/*.jpg
-**/*.mp4
-**/*.mp3
 
 node_modules
 npm-debug.log
